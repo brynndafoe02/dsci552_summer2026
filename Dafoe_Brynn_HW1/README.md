@@ -1,5 +1,5 @@
 Brynn Dafoe
-Git: brynndafoe02
+brynndafoe02
 3109669210
 
 DSCI 552 Homework 1
