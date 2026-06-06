@@ -18,6 +18,7 @@ cycler @ file:///Users/ec2-user/croot/cycler_1766067932347/work
 debugpy @ file:///opt/miniconda3/conda-bld/debugpy_1762421637378/work
 decorator @ file:///Users/ec2-user/buildout/croot/decorator_1759952744985/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+et_xmlfile @ file:///Users/ec2-user/buildout/croot/et_xmlfile_1759954855491/work
 executing @ file:///Users/ec2-user/buildout/croot/executing_1761950542723/work
 fastjsonschema @ file:///opt/miniconda3/conda-bld/python-fastjsonschema_1763718705082/work
 fonttools @ file:///Users/ec2-user/croot/fonttools_1774256494220/work
@@ -60,6 +61,7 @@ nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 notebook @ file:///Users/ec2-user/croot/notebook_1775139368911/work
 notebook_shim @ file:///Users/ec2-user/croot/notebook-shim_1769629838630/work
 numpy @ file:///Users/ec2-user/croot/numpy_and_numpy_base_1776188827060/work/dist/numpy-2.4.4-cp314-cp314-macosx_12_0_arm64.whl#sha256=5ce545b28c6488aea4779311c6ff5baa4841e9177a55093f95b9b0897746a677
+openpyxl @ file:///Users/ec2-user/buildout/croot/openpyxl_1759956488874/work
 packaging==26.0
 pandas @ file:///Users/ec2-user/croot/pandas_1775480141261/work
 pandocfilters @ file:///Users/ec2-user/buildout/croot/pandocfilters_1759952542553/work
