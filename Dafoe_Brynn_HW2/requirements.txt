@@ -66,6 +66,7 @@ packaging==26.0
 pandas @ file:///Users/ec2-user/croot/pandas_1775480141261/work
 pandocfilters @ file:///Users/ec2-user/buildout/croot/pandocfilters_1759952542553/work
 parso @ file:///Users/ec2-user/croot/parso_1778674014309/work
+patsy @ file:///Users/ec2-user/croot/patsy_1767614330058/work
 pexpect @ file:///opt/miniconda3/conda-bld/pexpect_1762535936044/work
 pillow @ file:///Users/ec2-user/croot/pillow_1777974293463/work
 platformdirs @ file:///Users/ec2-user/croot/platformdirs_1773652975658/work
@@ -97,6 +98,7 @@ setuptools==82.0.1
 six @ file:///Users/ec2-user/buildout/croot/six_1759951952559/work
 soupsieve @ file:///Users/ec2-user/buildout/croot/soupsieve_1761936742519/work
 stack_data @ file:///Users/ec2-user/buildout/croot/stack_data_1759953041043/work
+statsmodels @ file:///opt/miniconda3/conda-bld/statsmodels_1765532956783/work
 terminado @ file:///Users/ec2-user/croot/terminado_1769591696190/work
 threadpoolctl @ file:///opt/miniconda3/conda-bld/threadpoolctl_1764361580482/work
 tinycss2 @ file:///opt/miniconda3/conda-bld/tinycss2_1764948935775/work
