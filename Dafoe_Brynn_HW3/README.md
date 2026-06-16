@@ -6,6 +6,7 @@ Files:
 
 notebook/Dafoe_Brynn_HW3.ipynb
 requirements.txt
+data/AReM -> all data files
 
 Requirements:
 
