@@ -9,7 +9,7 @@ babel @ file:///opt/miniconda3/conda-bld/babel_1764159323743/work
 beautifulsoup4 @ file:///Users/ec2-user/croot/beautifulsoup4-split_1770291772119/work
 bleach @ file:///Users/ec2-user/croot/bleach_1777544916423/work
 brotlicffi @ file:///opt/miniconda3/conda-bld/brotlicffi_1764961161487/work
-certifi @ file:///Users/ec2-user/croot/certifi_1779370294849/work/certifi
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1781719850827/work/certifi
 cffi @ file:///opt/miniconda3/conda-bld/cffi_1761832774023/work
 charset-normalizer @ file:///opt/miniconda3/conda-bld/charset-normalizer_1761744819392/work
 comm @ file:///Users/ec2-user/buildout/croot/comm_1763763170912/work
@@ -113,3 +113,4 @@ wcwidth @ file:///Users/ec2-user/croot/wcwidth_1767780857869/work
 webencodings @ file:///Users/ec2-user/buildout/croot/webencodings_1761936753283/work
 websocket-client @ file:///Users/ec2-user/buildout/croot/websocket-client_1759953104904/work
 widgetsnbextension @ file:///Users/ec2-user/buildout/croot/widgetsnbextension_1761938677832/work
+xgboost @ file:///Users/runner/miniforge3/conda-bld/xgboost-split_1782463026406/work/python-package
