@@ -4,12 +4,12 @@ DSCI 552 Final Project
 
 Files:
 
-notebook/Dafoe_Brynn_FP.ipynb
+notebook/Dafoe_Brynn_Project.ipynb
 requirements.txt
 data/defungi -> all data files 
 
 Requirements:
 
 Install requirements.txt
-Open and run Dafoe_Brynn_FP.ipynb
+Open and run Dafoe_Brynn_Project.ipynb
 The dataset is loaded using relative paths assuming the directory structure is unchanged
