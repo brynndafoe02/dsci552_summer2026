@@ -14,10 +14,10 @@ Requirements:
 - Open and run Dafoe_Brynn_Project.ipynb
 
 Note:
-- I began developing this project in Jupyter Notebook
-- I switched to Google Colab and finished developing and ran this notebook in Google Colab in order to use the T4 GPU
+- I began developing this project first in Jupyter Notebook
+- I switched to Google Colab in order to use the T4 GPU and finished developing and ran the notebook here
 - Because I switched to Google Colab I had to change the data paths accordingly to access the "defungi" data folder I uploaded to Google Drive (mounted in Colab)
-- If running the notebook locally in Jupyter, updata the dataset path to point to the local location of the "defungi" dataset
+- If running the notebook locally in Jupyter, update the dataset path to point to the local location of the "defungi" dataset
 - - can remove lines:
 - - - from google.colab import drive
 - - - drive.mount('/content/drive')
